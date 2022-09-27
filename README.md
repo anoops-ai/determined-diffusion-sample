@@ -13,7 +13,7 @@
 ### Launch Notebook
 launch notebook via [Determined CLI](https://docs.determined.ai/latest/interfaces/notebooks.html?highlight=notebooks)
 
-- `det notebook start  --config-file notebook.yaml --context .`
+- `det notebook start  --config-file notebook.yaml`
 - `git clone https://github.com/anoops-ai/determined-diffusion-sample.git`
 - Run demo.ipynb
 
