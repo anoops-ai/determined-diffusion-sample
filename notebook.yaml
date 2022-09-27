@@ -2,4 +2,6 @@ description: diffusssion-sample-notebook
 resources:
     slots: 1
     shm_size: 17179869184 # 16 GiB
+    resource_pool: v100-gpu-pool #your GPU resource pool for notebook
+
 idle_timeout: 2h
